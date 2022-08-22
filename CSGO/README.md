@@ -1,9 +1,9 @@
-# CSGO
+# CSGO (Counter Strike: Global Offensive)
 ![CSGO Logo](https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg?t=1641233427 "CSGO")
 
-I have been playing CS 11 years now. 
+I have been playing CS for 11 years now. 
 
-Would be fair to say this thing has taken a lot of time off my plate but nevertheless the memories it has given me throughout this time has been priceless and i would not exchange it for the world.
+It would be fair to say that this thing has taken a lot of time off my plate but nevertheless the memories it has given me throughout this time has been priceless and i would not exchange it for the world.
 
 ![CSGO gameplay image](https://steamuserimages-a.akamaihd.net/ugc/89346593455943948/3F90104486AECBB3E221E76506383BC76706E754/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false "CSGO")
 
