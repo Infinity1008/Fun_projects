@@ -13,7 +13,9 @@ Given all this time playing, making a map was always on my bucket list.
 So here we are. The very first draft of my CSGO map. I will make more sophisticated maps later on, but for now this is a good start.
 
 # The Map
-The map is named **PvP Infinity** and can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2851552237)
+The map is named **PvP Infinity** and can be found [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2851552237). If you want the source file of the map, it is uploaded to this repo with the name "de_infinity.bsp". 
+
+You can use this to edit and create a new version of this map. Keep in mind that you will have to create the nav_mesh again for the bots to work.   
 
 ![PvP Infinity](https://steamuserimages-a.akamaihd.net/ugc/1761490593340902855/B476C72F808A2DA9D0D0A428048B913926240BE0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false "PvP Infinity")
 
